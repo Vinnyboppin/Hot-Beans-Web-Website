@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+li{
+	display: inline;
+	padding: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 500;
+	
+	
+}
+
+h1{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+    font-style: normal;
+    font-weight: 400;
+	color: black;
+	background-color:ghostwhite;
+	font-size: 60px
+		
+		
+}
+
+body{
+	background-color: ghostwhite;
+		
+	}
+
+#logo{ 
+	position:absolute; 
+	top:0; 
+	left:0; 
+}
+
+#hiring_desc{
+	position:absolute;
+	top:200px;
+	left:670px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	word-wrap:break-word;
+	height:80px;
+	width:600px;
+	font-size:20px;
+	
+}
+
+#hiring_req{
+	position:absolute;
+	top:310px;
+	left:780px;
+	word-wrap:break-word;
+	height:400px;
+	width:400px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+#hiring_image{
+	position:absolute;
+	top:150px;
+	left:1250px;
+}
+
+#button_apply{
+	position:absolute;
+	top:800px;
+	left:860px;
+}
+	
+#page_name{
+	position:absolute;
+	left:770px;
+}
+
+#hiringimage_2{
+	position:absolute;
+	top:150px;
+	left:20px;
+}
+
+a{
+	color: black;
+}
+

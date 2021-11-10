@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+li{
+	display: inline;
+	padding: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 500;
+	
+	
+}
+
+h1{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+    font-style: normal;
+    font-weight: 400;
+	color:black;
+	background-color:ghostwhite;
+	font-size: 60px;
+		
+		
+}
+
+body{
+	background-color: ghostwhite;
+		
+	}
+
+#logo{ 
+	position:absolute; 
+	top:0; 
+	left:0; 
+}
+
+#Web_dev_desc{
+	position:absolute;
+	top:180px;
+	left:500px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    font-style: normal;
+	color:black;
+	font-size: 20px;
+	word-wrap:break-word;
+	height:100px;
+	width:1200px;
+	
+	
+}
+
+#Web_course_1{
+	position:absolute;
+	top:350px;
+	left:100px;
+}
+
+#Web_course_2{
+	position:absolute;
+	top:350px;
+	left:580px;
+}
+
+#Web_course_3{
+	position:absolute;
+	top:350px;
+	left:1030px;
+}
+
+#Web_course_4{
+	position:absolute;
+	top:350px;
+	left:1500px;
+}
+
+#Webcourse_desc_1{
+	position:absolute;
+	top:550px;
+	left:115px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+#Webcourse_desc_2{
+	position:absolute;
+	top:550px;
+	left:665px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+#Webcourse_desc_3{
+	position:absolute;
+	top:550px;
+	left:1130px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+#Webcourse_desc_4{
+	position:absolute;
+	top:550px;
+	left:1580px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+#apply_button{
+	position:absolute;
+	top:750px;
+	left:855px;
+}
+
+#page_name{
+	position:absolute;
+	left:630px;
+}
+
+a{
+	color: black;
+}

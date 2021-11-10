@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+li{
+	display: inline;
+	padding: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 500;
+	
+	
+}
+
+h1{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+    font-style: normal;
+    font-weight: 400;
+	color:black;
+	background-color:ghostwhite;
+	font-size: 60px;
+		
+		
+}
+
+body{
+	background-color: ghostwhite;
+		
+	}
+
+#logo{ 
+	position:absolute; 
+	top:0; 
+	left:0; 
+}
+
+#staff_1{
+	position:absolute;
+	top:350px;
+	left:50px;
+	width:300px;
+	
+}
+
+#staff_2{
+	position:absolute;
+	top:350px;
+	left:430px;
+}
+
+#staff_3{
+	position:absolute;
+	top:350px;
+	left:810px;
+}
+
+#staff_4{
+	position:absolute;
+	top:350px;
+	left:1190px;
+}
+
+#staff_5{
+	position:absolute;
+	top:350px;
+	left:1570px;
+}
+
+#staff_1_name{
+	position:absolute;
+	top:550px;
+	left:165px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 20px;
+	
+}
+
+#staff_2_name{
+	position:absolute;
+	top:550px;
+	left:560px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 20px;
+}
+
+#staff_3_name{
+	position:absolute;
+	top:550px;
+	left:940px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 20px;
+}
+
+#staff_4_name{
+	position:absolute;
+	top:550px;
+	left:1320px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 20px;
+}
+
+#staff_5_name{
+	position:absolute;
+	top:550px;
+	left:1710px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size:20px;
+}
+
+#staff_descrp{
+	position:absolute;
+	top:680px;
+	left:250px;
+	word-wrap:break-word;
+	height:200px;
+	width:1500px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size:20px;
+}
+
+#Manager_role{
+	position:absolute;
+	top:290px;
+	left:155px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+}
+
+#ProjectManager_role{
+	position:absolute;
+	top:290px;
+	left:505px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+	
+}
+
+#GraphicDesign_role{
+	position:absolute;
+	top:290px;
+	left:875px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+	
+}
+
+#Programmer_role_a{
+	position:absolute;
+	top:290px;
+	left:1240px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+	
+}
+
+#Programmer_role_b{
+	position:absolute;
+	top:290px;
+	left:1625px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+}
+
+#page_name{
+	position:absolute;
+	left:770px;
+}
+
+a{
+	color: black;
+}
+
+
+
+

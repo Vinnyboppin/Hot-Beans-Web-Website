@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+li{
+	display: inline;
+	padding: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: 500;
+	
+	
+}
+
+h1{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+    font-style: normal;
+    font-weight: 400;
+	color: black;
+	background-color:ghostwhite;
+	font-size: 60px
+		
+}
+
+body{
+	background-color: ghostwhite;
+		
+	}
+
+#logo{ 
+	position:absolute; 
+	top:0; 
+	left:0;
+	
+} 
+
+#About_us_desc{
+	position:absolute;
+	top: 300px;
+	left: 150px;
+	word-wrap:break-word;
+	height:500px;
+	width: 1000px;
+	font-size: 20px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		
+	
+}
+
+#About_us_image{
+	position:absolute;
+	top: 150px;
+	left: 1250px;
+}
+
+#Contact_info{
+	position:absolute;
+	word-wrap:break-word;
+	height:100px;
+	width:1100px;
+	top:800px;
+	left:150px;
+	font-size:20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		
+}
+
+#page_name{
+	position:absolute;
+	left:780px;	
+}
+
+a{
+	color: black;
+}
+		
+
+	
+
+
+
+
+
